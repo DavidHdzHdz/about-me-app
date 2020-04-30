@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name_text">David Hernández</string>
+    <string name="yellow_start">Yellow Start</string>
+    <string name="bio_text">Hi my name is David.
+        \n\nI love post punk music
+        \n\nI love painting and relax in my house
+        \n\nsometimes i go to dance post punk music at some places where they put it
+        \n\nI am not good enough dancing but i enjoy it, that\'s matter, isn\'t it?
+        \n\nI am positive an proactive guy my dream is create a solution that impact the people\'s life
+        \n\nart, philosophy, technology and sports ara my favorites topics
+        \n\nI\'d always dreamt becoming a weird genius.
+        \n\nIf I got crazy, please let me be.
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done_button">DONE</string>
+</resources>
